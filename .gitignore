@@ -1,0 +1,15 @@
+# 密钥（绝对不要提交！）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地缓存（PH 短链解析结果，无需入库）
+data/.link_cache.json
+
+# 系统
+.DS_Store
+Thumbs.db

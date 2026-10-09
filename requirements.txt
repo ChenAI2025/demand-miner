@@ -1,0 +1,3 @@
+# 唯一依赖：HTTP 请求
+# .env 由内置解析器读取（src/config.py::_load_dotenv），无需 python-dotenv
+requests>=2.31.0
