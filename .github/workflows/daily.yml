@@ -7,12 +7,21 @@ on:
   workflow_dispatch: {}   # 允许在 Actions 页面手动触发
 
 permissions:
-  contents: write
+  contents: write   # 把每日产出提交回仓库
+  pages: write      # 发布 GitHub Pages
+  id-token: write   # Pages 部署所需
+
+concurrency:
+  group: daily-miner
+  cancel-in-progress: false
 
 jobs:
-  mine:
+  mine-and-publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -41,6 +50,18 @@ jobs:
             git commit -m "chore: 每日需求词挖掘 $(date +%F)"
             git push
           fi
+
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传看板（public 目录）
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
 
       - name: 上传产出（备用）
         if: always()
