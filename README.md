@@ -100,7 +100,21 @@ python preview.py
 
 > 想立刻看效果？在 Actions 页面点 **Run workflow** 手动触发一次。
 
-**可选：把看板变成公开网页** —— 仓库 **Settings → Pages** 选 `main` 分支的 `/public` 目录。
+> ⚠️ **两个必须知道的限制**
+>
+> **1）定时不是精确时刻。** GitHub 的 `schedule` 是**尽力而为**：整点（尤其 UTC 整点）
+> 是全局最拥堵的时刻，实际触发常延迟 10 分钟到 1 小时以上，极端情况下排队任务会被丢弃。
+> 这不是配置错误。想减少延迟，把 cron 挪到非整点分钟，例如 `13 1 * * *`。
+>
+> **2）机房 IP 解析不出真实网站。** 见上方常见问题——GitHub runner 访问
+> `producthunt.com` 会被 Cloudflare 403 拦截，因此 Actions 适合**兜底拿产品清单**，
+> 「解析真实网站」这一步需要在你自己的电脑上跑。
+
+**把看板变成公开网页**：用 **GitHub Actions 部署 Pages**（`build_type=workflow`），
+工作流里已含 `configure-pages` + `upload-pages-artifact`（`path: public`）+ `deploy-pages`。
+
+> 注意：Pages 的「Deploy from a branch」下拉框**只有 `/ (root)` 和 `/docs`**，没有 `/public`；
+> 且免费账号要求仓库**公开**。所以只能走 Actions 部署这条路。
 
 ---
 
@@ -150,6 +164,27 @@ demand-miner/
 本工具会自动读取 `reset` 并等待重试（最长 20 分钟）。若仍失败，等十几分钟再跑即可。
 另外：同一天的 JSON 已存在时会**默认跳过接口请求**，直接复用本地数据重新出报告，避免重复消耗配额；
 要强制重抓加 `--force`。
+
+**Q：真实网站一列全是空的 / 日志报「一条真实网站都没解析出来」？**
+这是**运行环境的出口 IP 被 Product Hunt 的 Cloudflare 拦截**，不是代码问题。已在 GitHub
+Actions（机房 IP）上实测：`www.producthunt.com` 的首页、`/r/` 短链、产品页**全部返回 403
+挑战页**，包括：
+
+| 手段 | 机房 IP 结果 |
+|---|---|
+| 最简 UA / 完整浏览器头 | 403 |
+| Session 预热拿 `__cf_bm` cookie | 403 |
+| HEAD 只取 Location | 403 |
+| 第三方渲染（Jina Reader） | 挑战页 "Just a moment..." |
+| 公共 CORS 代理 | 403 / 522 / 需密钥 |
+| **真 Chromium（Playwright）** | 卡在 "Just a moment..." |
+
+**结论：机房 IP 无法解析，住宅网络（你自己的电脑）可以。** 因此：
+
+- 本工具现在**解析率为 0 时会直接中止并让任务失败**（退出码 2），**不会**再把"网站列全空"
+  的结果覆盖到已有数据、发布到看板。
+- 补救办法：在本机跑一次 `python run.py --date <日期> --reparse` 补全，再 `git push`。
+  `--reparse` 复用已存的 `ph_link`，不消耗 PH 接口配额，只重做解析与出报告。
 
 **Q：抓取不到产品？**
 - 确认 `PH_API_TOKEN` 有效（401 会在日志明确报错）。

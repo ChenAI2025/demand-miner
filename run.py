@@ -132,8 +132,23 @@ def _resolve_and_analyze(nodes: list, target: str, cache_file) -> dict:
             resolved += 1
     print(f"     真实网站 {resolved}/{len(nodes)} 款"
           f"（其中 {reused} 款复用已有结果，未联网）")
-    if resolved == 0:
-        print("     ⚠️ 一条都没解析出来，可能是网络受限；仍会生成清单（网站列为空）")
+
+    # 一条都解析不出来 = 运行环境被拦截，属于硬故障。
+    # 此时必须中止：否则会把"网站列全空"的结果覆盖到已有数据并发布到看板。
+    if resolved == 0 and nodes:
+        print(file=sys.stderr)
+        print("❌ 一条真实网站都没解析出来，已中止，避免把空网站列覆盖到已有数据。",
+              file=sys.stderr)
+        print("   最常见原因：当前运行环境的出口 IP 被 Product Hunt 的 Cloudflare 拦截"
+              "（返回 403 挑战页，而不是 302 跳转）。", file=sys.stderr)
+        print("   GitHub Actions 等机房 IP 会被拦；本机住宅网络可正常解析。",
+              file=sys.stderr)
+        print("   处理：在本机跑 `python run.py --date <日期> --reparse` 补全后再推送；"
+              "详见 README「常见问题」。", file=sys.stderr)
+        sys.exit(2)
+
+    if resolved < len(nodes) * 0.3:
+        print(f"     ⚠️ 解析率偏低（{resolved}/{len(nodes)}），可能有部分请求被拦截")
 
     print("[3/3] 分析需求词 + 生成报告/看板 ...")
     result = analyze.analyze(nodes, target)
