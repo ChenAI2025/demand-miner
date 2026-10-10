@@ -1,0 +1,2388 @@
+{
+  "date": "2026-10-09",
+  "product_count": 60,
+  "website_count": 0,
+  "clusters": [
+    {
+      "topic": "Artificial Intelligence",
+      "launches": 33,
+      "votes": 2077,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Together Link",
+        "Odyssey 3",
+        "Gemini Agent for Google Cloud",
+        "Refs"
+      ],
+      "opportunity": 93
+    },
+    {
+      "topic": "Developer Tools",
+      "launches": 24,
+      "votes": 1788,
+      "sample_products": [
+        "Zernio",
+        "Busabase",
+        "Together Link",
+        "Refs",
+        "OpenPilot"
+      ],
+      "opportunity": 92
+    },
+    {
+      "topic": "Productivity",
+      "launches": 15,
+      "votes": 1175,
+      "sample_products": [
+        "Busabase",
+        "Gemini Agent for Google Cloud",
+        "Melete",
+        "Phonable",
+        "Ambiguous Workspace"
+      ],
+      "opportunity": 89
+    },
+    {
+      "topic": "Open Source",
+      "launches": 10,
+      "votes": 791,
+      "sample_products": [
+        "Together Link",
+        "AgentSDR",
+        "OpenPilot",
+        "OpenCharm",
+        "BrightBean Studio"
+      ],
+      "opportunity": 87
+    },
+    {
+      "topic": "GitHub",
+      "launches": 11,
+      "votes": 667,
+      "sample_products": [
+        "OpenVids",
+        "OpenCharm",
+        "Melete",
+        "iwant",
+        "Comcent"
+      ],
+      "opportunity": 85
+    },
+    {
+      "topic": "API",
+      "launches": 5,
+      "votes": 523,
+      "sample_products": [
+        "Zernio",
+        "Pine Computer",
+        "Trophy MCP Servers",
+        "Request Eagle",
+        "Canonn R1"
+      ],
+      "opportunity": 74
+    },
+    {
+      "topic": "Mac",
+      "launches": 5,
+      "votes": 278,
+      "sample_products": [
+        "Rune",
+        "Sorted",
+        "De Stash",
+        "Thravik",
+        "SupaYatta"
+      ],
+      "opportunity": 69
+    },
+    {
+      "topic": "SaaS",
+      "launches": 5,
+      "votes": 214,
+      "sample_products": [
+        "Gemini Agent for Google Cloud",
+        "Regunow",
+        "Searchbase",
+        "M82 Labs",
+        "TripEleven"
+      ],
+      "opportunity": 67
+    },
+    {
+      "topic": "Design Tools",
+      "launches": 5,
+      "votes": 197,
+      "sample_products": [
+        "OpenVids",
+        "HeyPi",
+        "CropGuide",
+        "Segmentit",
+        "aiCarousels"
+      ],
+      "opportunity": 67
+    },
+    {
+      "topic": "Marketing",
+      "launches": 4,
+      "votes": 406,
+      "sample_products": [
+        "Zernio",
+        "BrightBean Studio",
+        "Underheard",
+        "Verlix"
+      ],
+      "opportunity": 66
+    },
+    {
+      "topic": "Android",
+      "launches": 4,
+      "votes": 248,
+      "sample_products": [
+        "Opposable",
+        "Murmur",
+        "Murmur",
+        "Sudoku by Ibexo"
+      ],
+      "opportunity": 62
+    },
+    {
+      "topic": "Social Media",
+      "launches": 3,
+      "votes": 232,
+      "sample_products": [
+        "BrightBean Studio",
+        "Murmur",
+        "Murmur"
+      ],
+      "opportunity": 56
+    },
+    {
+      "topic": "Audio",
+      "launches": 3,
+      "votes": 219,
+      "sample_products": [
+        "Murmur",
+        "Murmur",
+        "Voicera"
+      ],
+      "opportunity": 55
+    },
+    {
+      "topic": "Meetings",
+      "launches": 3,
+      "votes": 159,
+      "sample_products": [
+        "HeyPi",
+        "Assist",
+        "Kolig"
+      ],
+      "opportunity": 53
+    },
+    {
+      "topic": "Security",
+      "launches": 4,
+      "votes": 63,
+      "sample_products": [
+        "HaltState MCP",
+        "Arcjet for AI coding agents",
+        "Himaya",
+        "Branchmore"
+      ],
+      "opportunity": 53
+    },
+    {
+      "topic": "Games",
+      "launches": 2,
+      "votes": 201,
+      "sample_products": [
+        "Playground by Google Labs",
+        "GTA6.city"
+      ],
+      "opportunity": 49
+    },
+    {
+      "topic": "Hardware",
+      "launches": 2,
+      "votes": 153,
+      "sample_products": [
+        "Amazon Alexa Tablets",
+        "Microsoft Surface Laptop Ultra"
+      ],
+      "opportunity": 47
+    },
+    {
+      "topic": "Social Network",
+      "launches": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur",
+        "Murmur"
+      ],
+      "opportunity": 47
+    },
+    {
+      "topic": "Database",
+      "launches": 1,
+      "votes": 272,
+      "sample_products": [
+        "Busabase"
+      ],
+      "opportunity": 45
+    },
+    {
+      "topic": "Tech",
+      "launches": 2,
+      "votes": 96,
+      "sample_products": [
+        "Melete",
+        "Underheard"
+      ],
+      "opportunity": 44
+    },
+    {
+      "topic": "iOS",
+      "launches": 2,
+      "votes": 96,
+      "sample_products": [
+        "Phonable",
+        "Sudoku by Ibexo"
+      ],
+      "opportunity": 44
+    },
+    {
+      "topic": "Education",
+      "launches": 1,
+      "votes": 101,
+      "sample_products": [
+        "Staffcoder"
+      ],
+      "opportunity": 38
+    },
+    {
+      "topic": "Software Engineering",
+      "launches": 1,
+      "votes": 101,
+      "sample_products": [
+        "Staffcoder"
+      ],
+      "opportunity": 38
+    },
+    {
+      "topic": "Online Learning",
+      "launches": 1,
+      "votes": 101,
+      "sample_products": [
+        "Staffcoder"
+      ],
+      "opportunity": 38
+    },
+    {
+      "topic": "Photo & Video",
+      "launches": 1,
+      "votes": 98,
+      "sample_products": [
+        "Refs"
+      ],
+      "opportunity": 38
+    },
+    {
+      "topic": "Sales",
+      "launches": 1,
+      "votes": 94,
+      "sample_products": [
+        "AgentSDR"
+      ],
+      "opportunity": 38
+    },
+    {
+      "topic": "YouTube",
+      "launches": 1,
+      "votes": 89,
+      "sample_products": [
+        "OpenVids"
+      ],
+      "opportunity": 37
+    },
+    {
+      "topic": "Video",
+      "launches": 1,
+      "votes": 89,
+      "sample_products": [
+        "OpenVids"
+      ],
+      "opportunity": 37
+    },
+    {
+      "topic": "eBook Reader",
+      "launches": 1,
+      "votes": 87,
+      "sample_products": [
+        "Amazon Alexa Tablets"
+      ],
+      "opportunity": 37
+    },
+    {
+      "topic": "Amazon",
+      "launches": 1,
+      "votes": 87,
+      "sample_products": [
+        "Amazon Alexa Tablets"
+      ],
+      "opportunity": 37
+    },
+    {
+      "topic": "Tablet",
+      "launches": 1,
+      "votes": 87,
+      "sample_products": [
+        "Amazon Alexa Tablets"
+      ],
+      "opportunity": 37
+    },
+    {
+      "topic": "Task Management",
+      "launches": 1,
+      "votes": 73,
+      "sample_products": [
+        "Ambiguous Workspace"
+      ],
+      "opportunity": 36
+    },
+    {
+      "topic": "Writing",
+      "launches": 1,
+      "votes": 71,
+      "sample_products": [
+        "Voicera"
+      ],
+      "opportunity": 36
+    },
+    {
+      "topic": "Customer Communication",
+      "launches": 1,
+      "votes": 70,
+      "sample_products": [
+        "Comcent"
+      ],
+      "opportunity": 36
+    },
+    {
+      "topic": "SDK",
+      "launches": 1,
+      "votes": 68,
+      "sample_products": [
+        "Trophy MCP Servers"
+      ],
+      "opportunity": 35
+    },
+    {
+      "topic": "Storage",
+      "launches": 1,
+      "votes": 64,
+      "sample_products": [
+        "De Stash"
+      ],
+      "opportunity": 35
+    },
+    {
+      "topic": "Legal",
+      "launches": 1,
+      "votes": 61,
+      "sample_products": [
+        "Regunow"
+      ],
+      "opportunity": 35
+    },
+    {
+      "topic": "Privacy",
+      "launches": 1,
+      "votes": 61,
+      "sample_products": [
+        "Thravik"
+      ],
+      "opportunity": 35
+    },
+    {
+      "topic": "Email",
+      "launches": 2,
+      "votes": 28,
+      "sample_products": [
+        "inkling",
+        "Himaya"
+      ],
+      "opportunity": 35
+    },
+    {
+      "topic": "Video Streaming",
+      "launches": 1,
+      "votes": 48,
+      "sample_products": [
+        "Videorc"
+      ],
+      "opportunity": 33
+    },
+    {
+      "topic": "Hiring",
+      "launches": 1,
+      "votes": 20,
+      "sample_products": [
+        "HuntYourTribe"
+      ],
+      "opportunity": 27
+    },
+    {
+      "topic": "Career",
+      "launches": 1,
+      "votes": 20,
+      "sample_products": [
+        "HuntYourTribe"
+      ],
+      "opportunity": 27
+    },
+    {
+      "topic": "Puzzle Games",
+      "launches": 1,
+      "votes": 20,
+      "sample_products": [
+        "Sudoku by Ibexo"
+      ],
+      "opportunity": 27
+    },
+    {
+      "topic": "Messaging",
+      "launches": 1,
+      "votes": 17,
+      "sample_products": [
+        "inkling"
+      ],
+      "opportunity": 26
+    },
+    {
+      "topic": "Calendar",
+      "launches": 1,
+      "votes": 17,
+      "sample_products": [
+        "inkling"
+      ],
+      "opportunity": 26
+    },
+    {
+      "topic": "Vibe coding",
+      "launches": 1,
+      "votes": 10,
+      "sample_products": [
+        "Branchmore"
+      ],
+      "opportunity": 22
+    },
+    {
+      "topic": "User Experience",
+      "launches": 1,
+      "votes": 10,
+      "sample_products": [
+        "CropGuide"
+      ],
+      "opportunity": 22
+    },
+    {
+      "topic": "3D Modeling",
+      "launches": 1,
+      "votes": 9,
+      "sample_products": [
+        "Segmentit"
+      ],
+      "opportunity": 22
+    },
+    {
+      "topic": "Virtual Assistants",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "Verlix"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Painting",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "SwatchBase"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Home improvement",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "SwatchBase"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "DIY",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "SwatchBase"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Web App",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "Lupus Master"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Board Games",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "Lupus Master"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Free Games",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "Lupus Master"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Social media marketing",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "aiCarousels"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Maps",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "GTA6.city"
+      ],
+      "opportunity": 20
+    },
+    {
+      "topic": "Community",
+      "launches": 1,
+      "votes": 7,
+      "sample_products": [
+        "GTA6.city"
+      ],
+      "opportunity": 20
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "agents",
+      "kind": "unigram",
+      "count": 7,
+      "votes": 821,
+      "sample_products": [
+        "Zernio",
+        "Busabase",
+        "OpenVids",
+        "Ambiguous Workspace"
+      ]
+    },
+    {
+      "phrase": "open-source",
+      "kind": "unigram",
+      "count": 7,
+      "votes": 522,
+      "sample_products": [
+        "AgentSDR",
+        "OpenPilot",
+        "OpenVids",
+        "OpenCharm"
+      ]
+    },
+    {
+      "phrase": "mac",
+      "kind": "unigram",
+      "count": 5,
+      "votes": 270,
+      "sample_products": [
+        "Rune",
+        "Sorted",
+        "De Stash",
+        "Thravik"
+      ]
+    },
+    {
+      "phrase": "models",
+      "kind": "unigram",
+      "count": 4,
+      "votes": 302,
+      "sample_products": [
+        "Together Link",
+        "iwant",
+        "Microsoft Surface Laptop Ultra",
+        "OptiQ"
+      ]
+    },
+    {
+      "phrase": "open",
+      "kind": "unigram",
+      "count": 4,
+      "votes": 284,
+      "sample_products": [
+        "Together Link",
+        "iwant",
+        "Videorc",
+        "M82 Labs"
+      ]
+    },
+    {
+      "phrase": "private",
+      "kind": "unigram",
+      "count": 4,
+      "votes": 277,
+      "sample_products": [
+        "Murmur",
+        "Sorted",
+        "De Stash"
+      ]
+    },
+    {
+      "phrase": "infrastructure",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 374,
+      "sample_products": [
+        "Zernio",
+        "Comcent",
+        "Searchbase"
+      ]
+    },
+    {
+      "phrase": "play",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 288,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Amazon Alexa Tablets",
+        "Lupus Master"
+      ]
+    },
+    {
+      "phrase": "claude",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 243,
+      "sample_products": [
+        "Gemini Agent for Google Cloud",
+        "Refs",
+        "Arcjet for AI coding agents"
+      ]
+    },
+    {
+      "phrase": "run",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 240,
+      "sample_products": [
+        "OpenVids",
+        "OpenCharm",
+        "Microsoft Surface Laptop Ultra"
+      ]
+    },
+    {
+      "phrase": "share",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 208,
+      "sample_products": [
+        "Playground by Google Labs",
+        "SwatchBase",
+        "GTA6.city"
+      ]
+    },
+    {
+      "phrase": "like",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 116,
+      "sample_products": [
+        "Staffcoder",
+        "archii",
+        "aiCarousels"
+      ]
+    },
+    {
+      "phrase": "fix",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 27,
+      "sample_products": [
+        "Branchmore",
+        "CropGuide",
+        "M82 Labs"
+      ]
+    },
+    {
+      "phrase": "record",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 320,
+      "sample_products": [
+        "Busabase",
+        "Videorc"
+      ]
+    },
+    {
+      "phrase": "google",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 281,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Amazon Alexa Tablets"
+      ]
+    },
+    {
+      "phrase": "own",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 264,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Comcent"
+      ]
+    },
+    {
+      "phrase": "real",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 244,
+      "sample_products": [
+        "Odyssey 3",
+        "Staffcoder"
+      ]
+    },
+    {
+      "phrase": "model",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 232,
+      "sample_products": [
+        "Odyssey 3",
+        "OpenPilot"
+      ]
+    },
+    {
+      "phrase": "open models",
+      "kind": "bigram",
+      "count": 2,
+      "votes": 229,
+      "sample_products": [
+        "Together Link",
+        "iwant"
+      ]
+    },
+    {
+      "phrase": "games",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 201,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Lupus Master"
+      ]
+    },
+    {
+      "phrase": "give",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 178,
+      "sample_products": [
+        "Refs",
+        "Opposable"
+      ]
+    },
+    {
+      "phrase": "computer",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 168,
+      "sample_products": [
+        "Pine Computer",
+        "Opposable"
+      ]
+    },
+    {
+      "phrase": "built",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 161,
+      "sample_products": [
+        "Pine Computer",
+        "Ambiguous Workspace"
+      ]
+    },
+    {
+      "phrase": "alternative",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "BrightBean Studio",
+        "Request Eagle"
+      ]
+    },
+    {
+      "phrase": "voice-first",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur"
+      ]
+    },
+    {
+      "phrase": "notepad",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur"
+      ]
+    },
+    {
+      "phrase": "thoughts",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur"
+      ]
+    },
+    {
+      "phrase": "private voice-first",
+      "kind": "bigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur"
+      ]
+    },
+    {
+      "phrase": "voice-first notepad",
+      "kind": "bigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur"
+      ]
+    },
+    {
+      "phrase": "notepad thoughts",
+      "kind": "bigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur"
+      ]
+    },
+    {
+      "phrase": "text",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 147,
+      "sample_products": [
+        "Phonable",
+        "Voicera"
+      ]
+    },
+    {
+      "phrase": "live",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 130,
+      "sample_products": [
+        "HeyPi",
+        "Videorc"
+      ]
+    },
+    {
+      "phrase": "jobs",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 108,
+      "sample_products": [
+        "Pine Computer",
+        "HuntYourTribe"
+      ]
+    },
+    {
+      "phrase": "already",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 92,
+      "sample_products": [
+        "OpenCharm",
+        "M82 Labs"
+      ]
+    },
+    {
+      "phrase": "notch",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 85,
+      "sample_products": [
+        "Assist",
+        "SupaYatta"
+      ]
+    },
+    {
+      "phrase": "calls",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 83,
+      "sample_products": [
+        "Phonable",
+        "Verlix"
+      ]
+    },
+    {
+      "phrase": "host",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 78,
+      "sample_products": [
+        "iwant",
+        "Lupus Master"
+      ]
+    },
+    {
+      "phrase": "local",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 75,
+      "sample_products": [
+        "Porch",
+        "OptiQ"
+      ]
+    },
+    {
+      "phrase": "project",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 75,
+      "sample_products": [
+        "Porch",
+        "SwatchBase"
+      ]
+    },
+    {
+      "phrase": "search",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 72,
+      "sample_products": [
+        "De Stash",
+        "Searchbase"
+      ]
+    },
+    {
+      "phrase": "security",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 25,
+      "sample_products": [
+        "Arcjet for AI coding agents",
+        "Himaya"
+      ]
+    },
+    {
+      "phrase": "know",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 22,
+      "sample_products": [
+        "SupaYatta",
+        "Kolig"
+      ]
+    },
+    {
+      "phrase": "code",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 21,
+      "sample_products": [
+        "Arcjet for AI coding agents",
+        "OptiQ"
+      ]
+    },
+    {
+      "phrase": "businesses",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 14,
+      "sample_products": [
+        "Verlix",
+        "TripEleven"
+      ]
+    },
+    {
+      "phrase": "answers",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 14,
+      "sample_products": [
+        "Verlix",
+        "Canonn R1"
+      ]
+    },
+    {
+      "phrase": "marketing",
+      "kind": "unigram",
+      "count": 1,
+      "votes": 296,
+      "sample_products": [
+        "Zernio"
+      ]
+    },
+    {
+      "phrase": "products",
+      "kind": "unigram",
+      "count": 1,
+      "votes": 296,
+      "sample_products": [
+        "Zernio"
+      ]
+    },
+    {
+      "phrase": "general",
+      "kind": "unigram",
+      "count": 1,
+      "votes": 272,
+      "sample_products": [
+        "Busabase"
+      ]
+    },
+    {
+      "phrase": "system",
+      "kind": "unigram",
+      "count": 1,
+      "votes": 272,
+      "sample_products": [
+        "Busabase"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "name": "Zernio",
+      "tagline": "Marketing infrastructure for products and agents",
+      "url": "https://www.producthunt.com/products/zernio",
+      "website": "",
+      "domain": "",
+      "votes": 296,
+      "topics": [
+        "API",
+        "Marketing",
+        "Developer Tools"
+      ],
+      "ph_link": "https://www.producthunt.com/r/2QQY2FLJ5IUZ2E?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Busabase",
+      "tagline": "The general system of record for AI agents",
+      "url": "https://www.producthunt.com/products/busabase",
+      "website": "",
+      "domain": "",
+      "votes": 272,
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Database"
+      ],
+      "ph_link": "https://www.producthunt.com/r/NCFRPHEHNAHLX7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Playground by Google Labs",
+      "tagline": "Create, play, and share your own games with Google AI",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "website": "",
+      "domain": "",
+      "votes": 194,
+      "topics": [
+        "Artificial Intelligence",
+        "Games"
+      ],
+      "ph_link": "https://www.producthunt.com/r/3YW7KAM2VS6EVT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Together Link",
+      "tagline": "Use open models in your harness",
+      "url": "https://www.producthunt.com/products/together-ai",
+      "website": "",
+      "domain": "",
+      "votes": 158,
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/XCPBKI3MW334HG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Odyssey 3",
+      "tagline": "A world model that simulates physics in real time",
+      "url": "https://www.producthunt.com/products/odyssey-3",
+      "website": "",
+      "domain": "",
+      "votes": 143,
+      "topics": [
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/T77YP5EHSXPVNZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Gemini Agent for Google Cloud",
+      "tagline": "The work agent that runs on both Gemini and Claude",
+      "url": "https://www.producthunt.com/products/google",
+      "website": "",
+      "domain": "",
+      "votes": 131,
+      "topics": [
+        "Productivity",
+        "SaaS",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/CZHANWCNDFTOBI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Staffcoder",
+      "tagline": "Build like a real engineer",
+      "url": "https://www.producthunt.com/products/staffcoder",
+      "website": "",
+      "domain": "",
+      "votes": 101,
+      "topics": [
+        "Education",
+        "Software Engineering",
+        "Online Learning"
+      ],
+      "ph_link": "https://www.producthunt.com/r/2VTEVX554ZQNCR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Refs",
+      "tagline": "Give Claude better references for your videos",
+      "url": "https://www.producthunt.com/products/refs",
+      "website": "",
+      "domain": "",
+      "votes": 98,
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "Photo & Video"
+      ],
+      "ph_link": "https://www.producthunt.com/r/6WJCLZVYOWQGR5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "AgentSDR",
+      "tagline": " Open-source AI SDR",
+      "url": "https://www.producthunt.com/products/agentsdr",
+      "website": "",
+      "domain": "",
+      "votes": 94,
+      "topics": [
+        "Sales",
+        "Open Source",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/FIIHOH2O2SBZFI?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "OpenPilot",
+      "tagline": "Open-source desktop AI agent for any model you choose",
+      "url": "https://www.producthunt.com/products/openpilot",
+      "website": "",
+      "domain": "",
+      "votes": 89,
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/YZFHAUBDVYQFKM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "OpenVids",
+      "tagline": "Open-source video editor you run by chatting with AI agents",
+      "url": "https://www.producthunt.com/products/openvids",
+      "website": "",
+      "domain": "",
+      "votes": 89,
+      "topics": [
+        "Design Tools",
+        "GitHub",
+        "YouTube",
+        "Video"
+      ],
+      "ph_link": "https://www.producthunt.com/r/MLXUDNRMLDWRJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Pine Computer",
+      "tagline": "A cloud computer built for AI to get jobs done",
+      "url": "https://www.producthunt.com/products/pine-computer",
+      "website": "",
+      "domain": "",
+      "votes": 88,
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/LYSCUBGWWSQI5Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Amazon Alexa Tablets",
+      "tagline": "Full Google Play, Alexa+ and a Kindle reading mode",
+      "url": "https://www.producthunt.com/products/amazon-alexa-tablets",
+      "website": "",
+      "domain": "",
+      "votes": 87,
+      "topics": [
+        "eBook Reader",
+        "Amazon",
+        "Hardware",
+        "Tablet"
+      ],
+      "ph_link": "https://www.producthunt.com/r/CE42ECG6D7RLGK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "OpenCharm",
+      "tagline": "Open-source body for the AI agent you already run",
+      "url": "https://www.producthunt.com/products/opencharm",
+      "website": "",
+      "domain": "",
+      "votes": 85,
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/IBCCWL52BSJNS6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "BrightBean Studio",
+      "tagline": "Open-source Buffer alternative for social media teams",
+      "url": "https://www.producthunt.com/products/brightbean-studio-social-media",
+      "website": "",
+      "domain": "",
+      "votes": 84,
+      "topics": [
+        "Open Source",
+        "Social Media",
+        "Marketing"
+      ],
+      "ph_link": "https://www.producthunt.com/r/LGY566RUZN6R6D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "HeyPi",
+      "tagline": "Build and ship anything live, in-meetings",
+      "url": "https://www.producthunt.com/products/heypi",
+      "website": "",
+      "domain": "",
+      "votes": 82,
+      "topics": [
+        "Design Tools",
+        "Meetings",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/2CIK2P35ZGW346?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Opposable",
+      "tagline": "Computer use for phones to give your AI thumbs",
+      "url": "https://www.producthunt.com/products/opposable",
+      "website": "",
+      "domain": "",
+      "votes": 80,
+      "topics": [
+        "Android",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/HB3RDVBOJEGM4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Melete",
+      "tagline": "An Always On Personal Agent With a Team Workspace",
+      "url": "https://www.producthunt.com/products/melete",
+      "website": "",
+      "domain": "",
+      "votes": 77,
+      "topics": [
+        "Productivity",
+        "Artificial Intelligence",
+        "GitHub",
+        "Tech"
+      ],
+      "ph_link": "https://www.producthunt.com/r/CV4KDRO2YQTKOF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Phonable",
+      "tagline": "Missed calls, handled: callers get a text, you get the gist",
+      "url": "https://www.producthunt.com/products/phonable",
+      "website": "",
+      "domain": "",
+      "votes": 76,
+      "topics": [
+        "iOS",
+        "Productivity",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/QYHUWXXBI3LYPC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Murmur",
+      "tagline": "A private voice-first notepad for your thoughts",
+      "url": "https://www.producthunt.com/products/murmur-15",
+      "website": "",
+      "domain": "",
+      "votes": 74,
+      "topics": [
+        "Android",
+        "Social Network",
+        "Social Media",
+        "Audio"
+      ],
+      "ph_link": "https://www.producthunt.com/r/AE4LWDFLCFHSN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Murmur",
+      "tagline": "A private voice-first notepad for your thoughts",
+      "url": "https://www.producthunt.com/products/murmur-15",
+      "website": "",
+      "domain": "",
+      "votes": 74,
+      "topics": [
+        "Android",
+        "Social Network",
+        "Social Media",
+        "Audio"
+      ],
+      "ph_link": "https://www.producthunt.com/r/AE4LWDFLCFHSN6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Ambiguous Workspace",
+      "tagline": "18 productivity apps built for AI agents and humans",
+      "url": "https://www.producthunt.com/products/ambiguous-workspace",
+      "website": "",
+      "domain": "",
+      "votes": 73,
+      "topics": [
+        "Productivity",
+        "Task Management",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/IIETDMV65NKL4J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Rune",
+      "tagline": "Write it down on one Mac, find it on the other",
+      "url": "https://www.producthunt.com/products/rune",
+      "website": "",
+      "domain": "",
+      "votes": 73,
+      "topics": [
+        "Mac",
+        "Productivity",
+        "Developer Tools"
+      ],
+      "ph_link": "https://www.producthunt.com/r/4OICPLGHAQVXRF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "iwant",
+      "tagline": "Find available GPUs and host open models in one command",
+      "url": "https://www.producthunt.com/products/iwant",
+      "website": "",
+      "domain": "",
+      "votes": 71,
+      "topics": [
+        "Open Source",
+        "Developer Tools",
+        "Artificial Intelligence",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/CQCUQGUJRVC7BH?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Voicera",
+      "tagline": "Turn natural speech into polished text, perfected with AI",
+      "url": "https://www.producthunt.com/products/voicera-3",
+      "website": "",
+      "domain": "",
+      "votes": 71,
+      "topics": [
+        "Productivity",
+        "Writing",
+        "Audio"
+      ],
+      "ph_link": "https://www.producthunt.com/r/ELCEMTJI4FIUN4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Comcent",
+      "tagline": "AI-ready voice infrastructure on your own SIP trunk",
+      "url": "https://www.producthunt.com/products/comcent",
+      "website": "",
+      "domain": "",
+      "votes": 70,
+      "topics": [
+        "Open Source",
+        "Customer Communication",
+        "Artificial Intelligence",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/7GP7W3277ECSK4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Assist",
+      "tagline": "Invisible assistant, that lives in your MacBook’s notch",
+      "url": "https://www.producthunt.com/products/assist-5",
+      "website": "",
+      "domain": "",
+      "votes": 70,
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "Artificial Intelligence",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/AQVCMWLPUPKE3Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Cakie",
+      "tagline": "Turn screen recordings into prompts for AI agents",
+      "url": "https://www.producthunt.com/products/cakie-2",
+      "website": "",
+      "domain": "",
+      "votes": 68,
+      "topics": [
+        "Productivity",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/N7NXLO4WULDSL2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Porch",
+      "tagline": "local project summaries and cost tracking for AI coding",
+      "url": "https://www.producthunt.com/products/porch-6",
+      "website": "",
+      "domain": "",
+      "votes": 68,
+      "topics": [
+        "Productivity",
+        "Open Source",
+        "Developer Tools",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/NIM4XSESSGDK2U?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Trophy MCP Servers",
+      "tagline": "Interact with Trophy from your favourite AI tools",
+      "url": "https://www.producthunt.com/products/trophy-1-0",
+      "website": "",
+      "domain": "",
+      "votes": 68,
+      "topics": [
+        "API",
+        "Developer Tools",
+        "SDK"
+      ],
+      "ph_link": "https://www.producthunt.com/r/SH5FS7VGV3ZEZC?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Microsoft Surface Laptop Ultra",
+      "tagline": "Run 120B AI models locally on Microsoft's new Surface",
+      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
+      "website": "",
+      "domain": "",
+      "votes": 66,
+      "topics": [
+        "Hardware",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/IBFUN4O2XVAQK3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Sorted",
+      "tagline": "Your private AI file organizer for Mac",
+      "url": "https://www.producthunt.com/products/sorted-6",
+      "website": "",
+      "domain": "",
+      "votes": 65,
+      "topics": [
+        "Mac",
+        "Productivity",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/7OKYTPGRI5MQII?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "De Stash",
+      "tagline": "See, search and clean up your Mac storage, 100% private",
+      "url": "https://www.producthunt.com/products/de-stash",
+      "website": "",
+      "domain": "",
+      "votes": 64,
+      "topics": [
+        "Mac",
+        "Storage",
+        "Developer Tools"
+      ],
+      "ph_link": "https://www.producthunt.com/r/6SAG75H5IWS3KR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Request Eagle",
+      "tagline": "Fast and open-source Postman alternative",
+      "url": "https://www.producthunt.com/products/request-eagle",
+      "website": "",
+      "domain": "",
+      "votes": 64,
+      "topics": [
+        "API",
+        "Open Source",
+        "Developer Tools",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/DFSN7E35YP77FJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Regunow",
+      "tagline": "Turn regulatory research into actionable compliance audits",
+      "url": "https://www.producthunt.com/products/regunow",
+      "website": "",
+      "domain": "",
+      "votes": 61,
+      "topics": [
+        "SaaS",
+        "Legal",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/C346T53UG7X4ON?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Thravik",
+      "tagline": "The native Mac browser that remembers",
+      "url": "https://www.producthunt.com/products/thravik",
+      "website": "",
+      "domain": "",
+      "votes": 61,
+      "topics": [
+        "Mac",
+        "Productivity",
+        "Privacy"
+      ],
+      "ph_link": "https://www.producthunt.com/r/AWB2GGXYRY44SS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Videorc",
+      "tagline": "Open source studio to record and go live everywhere at once.",
+      "url": "https://www.producthunt.com/products/videorc",
+      "website": "",
+      "domain": "",
+      "votes": 48,
+      "topics": [
+        "Productivity",
+        "Video Streaming",
+        "Developer Tools",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/4MRKLT53HURATY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "HaltState MCP",
+      "tagline": "Investigate AI agent activity from your MCP client",
+      "url": "https://www.producthunt.com/products/haltstate",
+      "website": "",
+      "domain": "",
+      "votes": 28,
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence",
+        "Security"
+      ],
+      "ph_link": "https://www.producthunt.com/r/G7BNDTSKUDXKYU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "HuntYourTribe",
+      "tagline": "Startup jobs in India, straight from career pages",
+      "url": "https://www.producthunt.com/products/huntyourtribe",
+      "website": "",
+      "domain": "",
+      "votes": 20,
+      "topics": [
+        "Hiring",
+        "Artificial Intelligence",
+        "Career"
+      ],
+      "ph_link": "https://www.producthunt.com/r/JK7LVJSAENSPU5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Sudoku by Ibexo",
+      "tagline": "Sudoku without gamification. No ads, no streaks, no points.",
+      "url": "https://www.producthunt.com/products/sudoku-by-ibexo",
+      "website": "",
+      "domain": "",
+      "votes": 20,
+      "topics": [
+        "Android",
+        "iOS",
+        "Puzzle Games"
+      ],
+      "ph_link": "https://www.producthunt.com/r/64GOCZ4FTIB4VR?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Underheard",
+      "tagline": "The AI interviewer to really understand your audience",
+      "url": "https://www.producthunt.com/products/underheard",
+      "website": "",
+      "domain": "",
+      "votes": 19,
+      "topics": [
+        "Marketing",
+        "Artificial Intelligence",
+        "Tech"
+      ],
+      "ph_link": "https://www.producthunt.com/r/TVPQ3TNPGCH2ZS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "inkling",
+      "tagline": "open-source AI assistant for your WhatsApp group chats",
+      "url": "https://www.producthunt.com/products/inkling-4",
+      "website": "",
+      "domain": "",
+      "votes": 17,
+      "topics": [
+        "Email",
+        "Messaging",
+        "Calendar",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/FCTOEUZ3TYZ5SK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "SupaYatta",
+      "tagline": "Know when your AI agents need you, right from your notch",
+      "url": "https://www.producthunt.com/products/supayatta",
+      "website": "",
+      "domain": "",
+      "votes": 15,
+      "topics": [
+        "Mac",
+        "Productivity",
+        "Developer Tools"
+      ],
+      "ph_link": "https://www.producthunt.com/r/HGEMPR2G5PSMEA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Arcjet for AI coding agents",
+      "tagline": "Security policies for Claude Code, Codex, Cursor, and more",
+      "url": "https://www.producthunt.com/products/arcjet",
+      "website": "",
+      "domain": "",
+      "votes": 14,
+      "topics": [
+        "Developer Tools",
+        "Security"
+      ],
+      "ph_link": "https://www.producthunt.com/r/UBFAIPZ43RG22A?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Himaya",
+      "tagline": "Demo-less Agentic Email Security for startups",
+      "url": "https://www.producthunt.com/products/himaya",
+      "website": "",
+      "domain": "",
+      "votes": 11,
+      "topics": [
+        "Email",
+        "Artificial Intelligence",
+        "Security"
+      ],
+      "ph_link": "https://www.producthunt.com/r/QOZBJZEW5PXVJ3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Branchmore",
+      "tagline": "Track tokens and analyze sessions to find/fix agent problems",
+      "url": "https://www.producthunt.com/products/branchmore",
+      "website": "",
+      "domain": "",
+      "votes": 10,
+      "topics": [
+        "Developer Tools",
+        "Security",
+        "Vibe coding"
+      ],
+      "ph_link": "https://www.producthunt.com/r/MU7MQ4WJPPCY3J?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "CropGuide",
+      "tagline": "Auto Fix User-Uploaded Images Before They Reach Your Server",
+      "url": "https://www.producthunt.com/products/cropguide",
+      "website": "",
+      "domain": "",
+      "votes": 10,
+      "topics": [
+        "Design Tools",
+        "User Experience",
+        "Developer Tools"
+      ],
+      "ph_link": "https://www.producthunt.com/r/4SC2A2KE6G6HIQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Segmentit",
+      "tagline": "Turn 2D photos into 3D assets",
+      "url": "https://www.producthunt.com/products/segmentit",
+      "website": "",
+      "domain": "",
+      "votes": 9,
+      "topics": [
+        "Design Tools",
+        "Artificial Intelligence",
+        "3D Modeling"
+      ],
+      "ph_link": "https://www.producthunt.com/r/KGQZKG5YPWZKW7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Searchbase",
+      "tagline": "European web search infrastructure for AI agents",
+      "url": "https://www.producthunt.com/products/searchbase-3",
+      "website": "",
+      "domain": "",
+      "votes": 8,
+      "topics": [
+        "Open Source",
+        "SaaS",
+        "Artificial Intelligence",
+        "GitHub"
+      ],
+      "ph_link": "https://www.producthunt.com/r/7ACE4DU54CCSWU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "archii",
+      "tagline": "a mind that thinks like you",
+      "url": "https://www.producthunt.com/products/archii",
+      "website": "",
+      "domain": "",
+      "votes": 8,
+      "topics": [
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/FSIKTZ4VQF7LSM?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Kolig",
+      "tagline": "The office for AI teammates that know your company",
+      "url": "https://www.producthunt.com/products/kolig",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "Productivity",
+        "Meetings",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/GXTDFORIS46SQZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Verlix",
+      "tagline": "24/7 AI receptionist for businesses that answers calls",
+      "url": "https://www.producthunt.com/products/verlix",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "Marketing",
+        "Artificial Intelligence",
+        "Virtual Assistants"
+      ],
+      "ph_link": "https://www.producthunt.com/r/BWV2RPF5E7VIG3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "M82 Labs",
+      "tagline": "Your vendor changed its API. The fix PR is already open.",
+      "url": "https://www.producthunt.com/products/m82-labs",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "SaaS",
+        "Developer Tools"
+      ],
+      "ph_link": "https://www.producthunt.com/r/VMYLWPZOANGDX7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "OptiQ",
+      "tagline": "Quantize, serve and code with local models on your Mac",
+      "url": "https://www.producthunt.com/products/optiq",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/ZIS46AEWZSDNAT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Canonn R1",
+      "tagline": "The LLM that answers only from your documents",
+      "url": "https://www.producthunt.com/products/canonn-r1",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "API",
+        "Developer Tools",
+        "Artificial Intelligence"
+      ],
+      "ph_link": "https://www.producthunt.com/r/KJZMC2HPZYPVRP?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "SwatchBase",
+      "tagline": "Save, share, and organize paint colors by project and room",
+      "url": "https://www.producthunt.com/products/swatchbase-your-paint-swatches-new-home",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "Painting",
+        "Home improvement",
+        "DIY"
+      ],
+      "ph_link": "https://www.producthunt.com/r/NJRSXTDAIZZMG4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "Lupus Master",
+      "tagline": "Host Lupus in Tabula games or play solo vs bots for free.",
+      "url": "https://www.producthunt.com/products/lupus-master",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "Web App",
+        "Board Games",
+        "Free Games"
+      ],
+      "ph_link": "https://www.producthunt.com/r/GUUVXG3EJLC6TQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "TripEleven",
+      "tagline": "Booking software for tour operators and travel businesses",
+      "url": "https://www.producthunt.com/products/tripeleven",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "SaaS"
+      ],
+      "ph_link": "https://www.producthunt.com/r/DW4I3HJ54GRLUT?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "aiCarousels",
+      "tagline": "Carousels that look designed and sound like you",
+      "url": "https://www.producthunt.com/products/aicarousels-com",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "Design Tools",
+        "Artificial Intelligence",
+        "Social media marketing"
+      ],
+      "ph_link": "https://www.producthunt.com/r/VMMXSIFZFGDMV6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    },
+    {
+      "name": "GTA6.city",
+      "tagline": "Find and share any spot of GTA VI’s interactive Leonida map.",
+      "url": "https://www.producthunt.com/products/gta6-city",
+      "website": "",
+      "domain": "",
+      "votes": 7,
+      "topics": [
+        "Maps",
+        "Games",
+        "Community"
+      ],
+      "ph_link": "https://www.producthunt.com/r/6H47TBKPI56C3S?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Arlo+%28ID%3A+305927%29"
+    }
+  ],
+  "top_demand_directions": [
+    {
+      "topic": "Artificial Intelligence",
+      "launches": 33,
+      "votes": 2077,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Together Link",
+        "Odyssey 3",
+        "Gemini Agent for Google Cloud",
+        "Refs"
+      ],
+      "opportunity": 93
+    },
+    {
+      "topic": "Developer Tools",
+      "launches": 24,
+      "votes": 1788,
+      "sample_products": [
+        "Zernio",
+        "Busabase",
+        "Together Link",
+        "Refs",
+        "OpenPilot"
+      ],
+      "opportunity": 92
+    },
+    {
+      "topic": "Productivity",
+      "launches": 15,
+      "votes": 1175,
+      "sample_products": [
+        "Busabase",
+        "Gemini Agent for Google Cloud",
+        "Melete",
+        "Phonable",
+        "Ambiguous Workspace"
+      ],
+      "opportunity": 89
+    },
+    {
+      "topic": "Open Source",
+      "launches": 10,
+      "votes": 791,
+      "sample_products": [
+        "Together Link",
+        "AgentSDR",
+        "OpenPilot",
+        "OpenCharm",
+        "BrightBean Studio"
+      ],
+      "opportunity": 87
+    },
+    {
+      "topic": "GitHub",
+      "launches": 11,
+      "votes": 667,
+      "sample_products": [
+        "OpenVids",
+        "OpenCharm",
+        "Melete",
+        "iwant",
+        "Comcent"
+      ],
+      "opportunity": 85
+    },
+    {
+      "topic": "API",
+      "launches": 5,
+      "votes": 523,
+      "sample_products": [
+        "Zernio",
+        "Pine Computer",
+        "Trophy MCP Servers",
+        "Request Eagle",
+        "Canonn R1"
+      ],
+      "opportunity": 74
+    },
+    {
+      "topic": "Mac",
+      "launches": 5,
+      "votes": 278,
+      "sample_products": [
+        "Rune",
+        "Sorted",
+        "De Stash",
+        "Thravik",
+        "SupaYatta"
+      ],
+      "opportunity": 69
+    },
+    {
+      "topic": "SaaS",
+      "launches": 5,
+      "votes": 214,
+      "sample_products": [
+        "Gemini Agent for Google Cloud",
+        "Regunow",
+        "Searchbase",
+        "M82 Labs",
+        "TripEleven"
+      ],
+      "opportunity": 67
+    },
+    {
+      "topic": "Design Tools",
+      "launches": 5,
+      "votes": 197,
+      "sample_products": [
+        "OpenVids",
+        "HeyPi",
+        "CropGuide",
+        "Segmentit",
+        "aiCarousels"
+      ],
+      "opportunity": 67
+    },
+    {
+      "topic": "Marketing",
+      "launches": 4,
+      "votes": 406,
+      "sample_products": [
+        "Zernio",
+        "BrightBean Studio",
+        "Underheard",
+        "Verlix"
+      ],
+      "opportunity": 66
+    },
+    {
+      "topic": "Android",
+      "launches": 4,
+      "votes": 248,
+      "sample_products": [
+        "Opposable",
+        "Murmur",
+        "Murmur",
+        "Sudoku by Ibexo"
+      ],
+      "opportunity": 62
+    },
+    {
+      "topic": "Social Media",
+      "launches": 3,
+      "votes": 232,
+      "sample_products": [
+        "BrightBean Studio",
+        "Murmur",
+        "Murmur"
+      ],
+      "opportunity": 56
+    },
+    {
+      "topic": "Audio",
+      "launches": 3,
+      "votes": 219,
+      "sample_products": [
+        "Murmur",
+        "Murmur",
+        "Voicera"
+      ],
+      "opportunity": 55
+    },
+    {
+      "topic": "Meetings",
+      "launches": 3,
+      "votes": 159,
+      "sample_products": [
+        "HeyPi",
+        "Assist",
+        "Kolig"
+      ],
+      "opportunity": 53
+    },
+    {
+      "topic": "Security",
+      "launches": 4,
+      "votes": 63,
+      "sample_products": [
+        "HaltState MCP",
+        "Arcjet for AI coding agents",
+        "Himaya",
+        "Branchmore"
+      ],
+      "opportunity": 53
+    }
+  ],
+  "top_phrases": [
+    {
+      "phrase": "agents",
+      "kind": "unigram",
+      "count": 7,
+      "votes": 821,
+      "sample_products": [
+        "Zernio",
+        "Busabase",
+        "OpenVids",
+        "Ambiguous Workspace"
+      ]
+    },
+    {
+      "phrase": "open-source",
+      "kind": "unigram",
+      "count": 7,
+      "votes": 522,
+      "sample_products": [
+        "AgentSDR",
+        "OpenPilot",
+        "OpenVids",
+        "OpenCharm"
+      ]
+    },
+    {
+      "phrase": "mac",
+      "kind": "unigram",
+      "count": 5,
+      "votes": 270,
+      "sample_products": [
+        "Rune",
+        "Sorted",
+        "De Stash",
+        "Thravik"
+      ]
+    },
+    {
+      "phrase": "models",
+      "kind": "unigram",
+      "count": 4,
+      "votes": 302,
+      "sample_products": [
+        "Together Link",
+        "iwant",
+        "Microsoft Surface Laptop Ultra",
+        "OptiQ"
+      ]
+    },
+    {
+      "phrase": "open",
+      "kind": "unigram",
+      "count": 4,
+      "votes": 284,
+      "sample_products": [
+        "Together Link",
+        "iwant",
+        "Videorc",
+        "M82 Labs"
+      ]
+    },
+    {
+      "phrase": "private",
+      "kind": "unigram",
+      "count": 4,
+      "votes": 277,
+      "sample_products": [
+        "Murmur",
+        "Sorted",
+        "De Stash"
+      ]
+    },
+    {
+      "phrase": "infrastructure",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 374,
+      "sample_products": [
+        "Zernio",
+        "Comcent",
+        "Searchbase"
+      ]
+    },
+    {
+      "phrase": "play",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 288,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Amazon Alexa Tablets",
+        "Lupus Master"
+      ]
+    },
+    {
+      "phrase": "claude",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 243,
+      "sample_products": [
+        "Gemini Agent for Google Cloud",
+        "Refs",
+        "Arcjet for AI coding agents"
+      ]
+    },
+    {
+      "phrase": "run",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 240,
+      "sample_products": [
+        "OpenVids",
+        "OpenCharm",
+        "Microsoft Surface Laptop Ultra"
+      ]
+    },
+    {
+      "phrase": "share",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 208,
+      "sample_products": [
+        "Playground by Google Labs",
+        "SwatchBase",
+        "GTA6.city"
+      ]
+    },
+    {
+      "phrase": "like",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 116,
+      "sample_products": [
+        "Staffcoder",
+        "archii",
+        "aiCarousels"
+      ]
+    },
+    {
+      "phrase": "fix",
+      "kind": "unigram",
+      "count": 3,
+      "votes": 27,
+      "sample_products": [
+        "Branchmore",
+        "CropGuide",
+        "M82 Labs"
+      ]
+    },
+    {
+      "phrase": "record",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 320,
+      "sample_products": [
+        "Busabase",
+        "Videorc"
+      ]
+    },
+    {
+      "phrase": "google",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 281,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Amazon Alexa Tablets"
+      ]
+    },
+    {
+      "phrase": "own",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 264,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Comcent"
+      ]
+    },
+    {
+      "phrase": "real",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 244,
+      "sample_products": [
+        "Odyssey 3",
+        "Staffcoder"
+      ]
+    },
+    {
+      "phrase": "model",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 232,
+      "sample_products": [
+        "Odyssey 3",
+        "OpenPilot"
+      ]
+    },
+    {
+      "phrase": "open models",
+      "kind": "bigram",
+      "count": 2,
+      "votes": 229,
+      "sample_products": [
+        "Together Link",
+        "iwant"
+      ]
+    },
+    {
+      "phrase": "games",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 201,
+      "sample_products": [
+        "Playground by Google Labs",
+        "Lupus Master"
+      ]
+    },
+    {
+      "phrase": "give",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 178,
+      "sample_products": [
+        "Refs",
+        "Opposable"
+      ]
+    },
+    {
+      "phrase": "computer",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 168,
+      "sample_products": [
+        "Pine Computer",
+        "Opposable"
+      ]
+    },
+    {
+      "phrase": "built",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 161,
+      "sample_products": [
+        "Pine Computer",
+        "Ambiguous Workspace"
+      ]
+    },
+    {
+      "phrase": "alternative",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "BrightBean Studio",
+        "Request Eagle"
+      ]
+    },
+    {
+      "phrase": "voice-first",
+      "kind": "unigram",
+      "count": 2,
+      "votes": 148,
+      "sample_products": [
+        "Murmur"
+      ]
+    }
+  ]
+}
